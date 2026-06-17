@@ -283,7 +283,14 @@ Day 3 (2026-06-17) ✅ 完成:
   ⏸️ InterviewChat 双栏界面调整到 Day 4（首页本身工作量够一天）
 Day 4: ⬜ 未开始
 Day 5: ⬜ 未开始
-Day 6: ⬜ 未开始
+Day 6 (2026-06-17) ✅ 完成:
+  ✅ 侧边栏精简 (8项→4项)
+  ✅ QuestionPanel 简化为纯代码编辑器
+  ✅ README.md 重写
+  ✅ daily/project-docs.md 项目文档
+  ✅ daily/interview-prep.md 面试准备文档
+  ✅ Git 初始化 + 两次提交
+  🎉 六天改造全部完成
 ```
 
 ---
