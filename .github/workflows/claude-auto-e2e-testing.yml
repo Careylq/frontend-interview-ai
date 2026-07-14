@@ -2,9 +2,8 @@ name: Claude Auto E2E Testing
 description: Automatically add E2E tests to improve user journey coverage
 
 on:
-  schedule:
-    # Run daily at 21:00 UTC (05:00 Beijing Time)
-    - cron: '0 21 * * *'
+  # schedule:  # Disabled — this fork doesn't need auto E2E testing
+  #   - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       target_module:
